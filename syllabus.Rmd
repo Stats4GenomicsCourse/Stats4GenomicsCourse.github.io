@@ -1,0 +1,101 @@
+---
+title: "Statistical Methods for Functional Genomics"
+author:
+- name: Vince Carey
+  affiliation: Harvard University, Boston, MA
+  email: stvjc@channing.harvard.edu 
+- name: Sean Davis
+  affiliation: National Cancer Institute, National Institutes of Health, Bethesda, MD
+  email: seandavi@gmail.com
+- name: Keegan Korthauer
+  affiliation: University of British Columbia, Vancouver, Canada
+  email: keegan@stat.ubc.ca
+- name: Mike Love
+  affiliation: University of North Carolina, Chapel Hill, Chapel Hill, NC
+  email: michaelisaiahlove@gmail.com
+- name: Tomas Rube
+  affiliation: University of California, Merced, Merced, CA
+  email: rube.tomas@gmail.com
+output: 
+    BiocStyle::html_document
+vignette: >
+  %\VignetteIndexEntry{Syllabus, Statistical Methods for Functional Genomics}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Overview
+
+## Prerequisites
+
+# Learning Objectives
+
+# Materials
+
+# Course Topics
+
+- The R programming language and Bioconductor
+  - Introduction to the R environment
+  - Basic linux/unix command-line
+  - R data structures
+  - Manipulating data in data frames and matrices
+  - Plotting and data visualization
+  - Distributions
+  - Hypothesis testing
+  - Exploratory data analysis
+- Statistical concepts
+  - Statistical distributions
+  - P-values
+  - Bayes theorem
+  - Multiple testing correction
+  - Dimensionality reduction
+  - Weight matrices
+  - Regression
+  - Linear models
+  - Introductory machine learning
+- Biological domains
+  - RNA-seq quantification, normalization, and differential expression
+  - Gene set enrichment analysis
+  - Expression QTLs
+  - Allele specific expression
+  - Single-cell transcriptomics
+  - ATAC-seq
+  - DNA and transcription factor binding
+  - DNA methylation
+- Computation and programming
+  - Linux/unix command line
+  - Literate programming (R markdown)
+  - Version control with git
+  - Building an R package
+
+# Logistics
+
+## Computer Equipment
+
+- Macintosh with 16GB RAM, 40GB of free disk space
+
+## Software
+
+Ability to install R packages as a user....
+
+- R version 3.7
+- Rstudio
+- Bioconductor (TODO--version)
+
+## Daily schedule
+
+
+# Guest Speakers (TODO)
+
+- Brittany Adamson, Princeton University, Princeton, NJ
+- Elana Fertig, Johns Hopkins University, Baltimore, MD
+- Tuuli Lappalainen, New York Genome Center & Columbia University, New York, NY
+- Karen Mohlke, University of North Carolina, Chapel Hill, NC
+- Robert Patro, Stony Brook University, Stony Brook, NY
+
+# Cold Spring Harbor Campus Life
+
+# Code of Conduct
+
+...
+
