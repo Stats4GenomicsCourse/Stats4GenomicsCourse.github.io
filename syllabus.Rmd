@@ -1,23 +1,28 @@
 ---
 title: "Statistical Methods for Functional Genomics"
+subtitle: "abc"
+date: "June 23-July 10, 2020"
 author:
 - name: Vince Carey
   affiliation: Harvard University, Boston, MA
-  email: stvjc@channing.harvard.edu 
+  
 - name: Sean Davis
   affiliation: National Cancer Institute, National Institutes of Health, Bethesda, MD
-  email: seandavi@gmail.com
+  
 - name: Keegan Korthauer
   affiliation: University of British Columbia, Vancouver, Canada
-  email: keegan@stat.ubc.ca
+  
 - name: Mike Love
   affiliation: University of North Carolina, Chapel Hill, Chapel Hill, NC
-  email: michaelisaiahlove@gmail.com
+
 - name: Tomas Rube
   affiliation: University of California, Merced, Merced, CA
-  email: rube.tomas@gmail.com
+
 output: 
-    BiocStyle::html_document
+  BiocStyle::html_document:
+    toc: FALSE
+  BiocStyle::pdf_document:
+    toc: FALSE
 vignette: >
   %\VignetteIndexEntry{Syllabus, Statistical Methods for Functional Genomics}
   %\VignetteEngine{knitr::rmarkdown}
@@ -43,8 +48,13 @@ vignette: >
   - Distributions
   - Hypothesis testing
   - Exploratory data analysis
+  - Genomic range operations
+  - Bioconductor data structures
+  - Accessing public data resources
 - Statistical concepts
   - Statistical distributions
+  - Hypothesis testing
+  - Experimental design
   - P-values
   - Bayes theorem
   - Multiple testing correction
@@ -60,13 +70,14 @@ vignette: >
   - Allele specific expression
   - Single-cell transcriptomics
   - ATAC-seq
-  - DNA and transcription factor binding
+  - Transcription factor binding and motif discovery
   - DNA methylation
 - Computation and programming
   - Linux/unix command line
   - Literate programming (R markdown)
   - Version control with git
   - Building an R package
+  - Data management with R and Linux
 
 # Logistics
 
@@ -84,6 +95,19 @@ Ability to install R packages as a user....
 
 ## Daily schedule
 
+While the schedule will vary somewhat from day-to-day, a typical daily
+routine looks like this.
+
+| Approximate times | Activity  |
+| --------------- | ------------------------------------------------ |
+| 7:30-9:00 AM    |   Breakfast                                        |
+| 9:00-12:00 Noon |   lecture/lab                                      |
+| 12:00-1:00 PM   |   Lunch                                            |
+| 1:00-4:00 PM    |   lecture/lab                                      |
+| 4:00-5:00 PM    |   Occasional guest lecture or continue lecture/lab |
+| 5:00-7:00 PM    |   Dinner                                           |
+| 7:00-8:00 PM    |   Guest lecture (cont.) or lecture/lab             |
+| 8:00-... PM     |   Open lab                                         |
 
 # Guest Speakers (TODO)
 
@@ -95,7 +119,32 @@ Ability to install R packages as a user....
 
 # Cold Spring Harbor Campus Life
 
-# Code of Conduct
+# Course policies
 
-...
+- [Diversity and Inclusion](https://meetings.cshl.edu/policies.aspx?meet=BIOHIST&year=20#diversity)
+- [Code of Conduct](https://meetings.cshl.edu/policies.aspx?meet=BIOHIST&year=20#conduct)
 
+# Instructor contact information
+
+## Vince Carey
+
+- email: stvjc@channing.harvard.edu
+
+## Sean Davis {-}
+
+- email: seandavi@gmail.com
+- home page: https://seandavi.github.io/
+- twitter: [seandavis12](https://twitter.com/seandavis12)
+- github: [seandavi](https://github.com/seandavi)
+
+## Keegan Korthauer
+
+- email: keegan@stat.ubc.ca
+
+## Mike Love
+
+- email: michaelisaiahlove@gmail.com
+
+## Tomas Rube
+
+- email: rube.tomas@gmail.com
