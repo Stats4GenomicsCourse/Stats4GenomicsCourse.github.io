@@ -80,7 +80,8 @@ begins with a primer and review of R data structures and programming.
   - Weight matrices
   - Regression
   - Linear models
-  - Introductory machine learning
+  - machine learning (classification and regression)
+  - Matrix factorization and data integration
 - Biological domains
   - RNA-seq quantification, normalization, and differential expression
   - Gene set enrichment analysis
