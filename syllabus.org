@@ -1,0 +1,415 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+COLUMNS: %30ITEM %DATE %PRESENTER
+
+** Welcome and Introductions
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-06-26  19:00-21:00>
+
+** Introduction to R
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-06-27  09:00-12:00>
+
+- https://seandavi.github.io/ITR
+
+
+** Bayes Theorem
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-27  13:00-14:00>
+
+
+** Normal Distribution
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen/Tomas
+  :END:
+  <2020-06-27  14:00-17:00>
+
+
+** Student Presentations
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Students
+  :END:
+  <2020-06-27  19:00-21:00>
+
+Students will each present 5-minute talks on their current research.
+
+
+
+** Introduction to R
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-06-28  09:00-10:00>
+
+- https://seandavi.github.io/ITR
+
+** Introduction to Bioconductor
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-06-28  10:00-12:00>
+
+- https://seandavi.github.io/ITR
+
+** Scoring differential expression
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen/Tomas
+  :END:
+  <2020-06-28  13:00-16:00>
+
+Work though Differential Expression assignment after a short introduction.
+
+** Student's t-distribution demystified
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-28  16:00-17:00>
+
+
+** Student Presentations
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Students
+  :END:
+  <2020-06-28  19:00-21:00>
+
+Students will each present 5-minute talks on their current research
+
+** Relationship between P-value, FDR, and Bayes Theorem
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-29  09:00-10:00>
+
+** Gene ontology scoring
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen/Tomas
+  :END:
+  <2020-06-29  10:00-12:00>
+  <2020-06-29  14:00-16:00>
+
+** Introduction to dimensionality reduction
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-29 13:00-14:00>
+
+** Guest lecture 
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-06-29 16:00-17:00>
+  <2020-06-29 19:00-20:00>
+
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :END:
+  <2020-06-29 20:00-22:00>
+
+** Bioconductor part 2
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-06-30 09:00-12:00>
+
+** Basics of linear regression
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-30 13:00-14:00>
+
+** Using the command line (shell)
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Tomas
+  :END:
+  <2020-06-30 14:00-16:00>
+
+** TODO Guest lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-06-30 16:00-17:00>
+  <2020-06-30 19:00-20:00>
+
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-06-30 20:00-22:00>
+
+
+** RNA-Seq quantification and quality qontrol
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Rob Patro and Mike Love
+  :END:
+  <2020-07-01 09:00-12:00>
+  <2020-07-01 13:00-16:00>
+
+** TODO Guest lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-07-01 16:00-17:00>
+  <2020-07-01 19:00-20:00>
+
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-01 20:00-22:00>
+
+** RNA-seq differential expression
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Mike Love
+  :END:
+  <2020-07-02 09:00-12:00>
+  <2020-07-02 13:00-16:00>
+
+** Approaches to multi-omics data
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Mike Love
+  :END:
+  <2020-07-02 16:00-17:00>
+
+
+** Develop an R package
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-07-02 19:00-20:00>
+
+
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-02 20:00-22:00>
+
+** RNA-seq isoform-level analysis
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Mike Love
+  :END:
+  <2020-07-03 09:00-11:00>
+
+** Introduction to machine learning
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Vince Carey
+  :END:
+  <2020-07-03 11:00-12:00>
+  <2020-07-03 13:00-15:00>
+
+
+** Guest lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Michael Hoffman
+  :END:
+  <2020-07-03 15:00-17:00>
+  <2020-07-03 19:00-20:00>
+
+** DAY OFF
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-04 09:00-22:00>
+
+
+** Data integration approaches
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Vince
+  :END:
+  <2020-07-05 09:00-10:30>
+
+
+** Public omics data
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-07-05 10:30-12:00>
+
+** ATAC-seq 
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Sean
+  :END:
+  <2020-07-05 13:00-16:00>
+
+** TODO Guest Lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-07-05 16:00-17:00>
+  <2020-07-05 19:00-20:00>
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-05 20:00-22:00>
+
+
+** Single cell RNA-seq
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Keegan
+  :END:
+  <2020-07-06 09:00-12:00>
+  <2020-07-06 13:00-16:00>
+
+
+** TODO Guest Lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-07-06 16:00-17:00>
+  <2020-07-06 19:00-20:00>
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-06 20:00-22:00>
+
+
+** Motif discovery 
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen
+  :END:
+  <2020-07-07 09:00-12:00>
+
+
+** Quantifying DNA binding specificity 
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen
+  :END:
+  <2020-07-07 13:00-16:00>
+
+
+** TODO Guest Lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-07-07 16:00-17:00>
+  <2020-07-07 19:00-20:00>
+
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-07 20:00-22:00>
+
+
+** Linear models of regulatory networks
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen
+  :END:
+  <2020-07-08 09:00-12:00>
+
+** Genetic derminants of transcriptor activity (aQTLs)
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Harmen
+  :END:
+  <2020-07-08 13:00-16:00>
+
+** TODO Guest Lecture
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: TBD
+  :END:
+  <2020-07-08 16:00-17:00>
+  <2020-07-08 19:00-20:00>
+** Open lab
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-08 20:00-22:00>
+
+
+
+** DNA methylation
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Keegan
+  :END:
+  <2020-07-09 09:00-12:00>
+
+
+** Open lab and wrapup
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-09 13:00-16:00>
+
+
+** Diploma Ceremony
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: Instructors
+  :END:
+  <2020-07-09 16:00-17:00>
+
+
+
+** Open bar followed by Banquet
+  :PROPERTIES:
+  :LOCATION: Nicholls Biondi Hall
+  :Presenter: 
+  :END:
+  <2020-07-09 18:00-21:00>
+
+** TODO Sailing trip
+** TODO Outing
+** TODO Course picnic
+** TODO Single cell overlap lecture
+** TODO Additional topics
+- Spatial transcriptomics
+- EDA
+- Data visualization
+
